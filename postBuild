@@ -1,2 +1,2 @@
 playwright install chromium
-playwright install-deps
+playwright install-deps --dry-run
